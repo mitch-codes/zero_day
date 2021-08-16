@@ -11,7 +11,6 @@ No installation required.
 ## Usage
 
 ```
-import foobar
 
 $ git remote add origin https://github.com/user/repo.git
 # Set a new remote
